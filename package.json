@@ -1,0 +1,26 @@
+{
+  "name": "webpack-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/s15723/webpack-demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/s15723/webpack-demo/issues"
+  },
+  "homepage": "https://github.com/s15723/webpack-demo#readme",
+  "devDependencies": {
+    "@babel/core": "^7.12.3",
+    "@babel/parser": "^7.12.5",
+    "@babel/preset-env": "^7.12.1",
+    "@babel/traverse": "^7.12.5"
+  }
+}
